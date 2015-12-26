@@ -118,6 +118,14 @@ mean(fBodyBodyAccJerkMag.std..)
 mean(fBodyBodyAccJerkMag.meanFreq..)
 mean(fBodyBodyGyroMag.mean..)
 mean(fBodyBodyGyroMag.std..)
+
+
+UNITS
+
+- Each row identifies the subject who performed the activity (and which activity) 
+- *Acc*: The mean of acceleration signal from the smartphone accelerometer XYZ (as appropriate) axis in standard gravity units 'g'.  
+- *BodyAcc* The mean of body acceleration signal obtained by subtracting the gravity from the total acceleration. 
+- *BodyGyro* The mean of angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
 ```
 
 
