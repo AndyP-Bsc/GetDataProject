@@ -40,7 +40,7 @@ summarise(group_by(dataset,Subject ,Activity,mean(colx)...)
 
 1. Download Script either by:
 + Save run_analysis.R to your local R working directory
-+ OR from R: source("https://github.com/AndyP-Bsc/GetDataProject/blob/master/run_analysis.R")
++ OR from R: source("https://raw.githubusercontent.com/AndyP-Bsc/GetDataProject/master/run_analysis.R")
 2. Usage From R: analysisRun(download = FALSE) 
 + If download = FALSE then you will need to have previously saved the Samsung data zip file to a local file called samdataset.zip (in your working directory). 
 + If download = TRUE then the script will automatically download the data from the Internet for you.
